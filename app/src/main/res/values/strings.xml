@@ -1,0 +1,167 @@
+<resources>
+    <string name="app_name">Commuterpedia</string>
+    <string name="opening_krl">KRL Commuter Line merupakan bagian yang tidak terpisahkan dalam kehidupan warga Jakarta. Oleh karena itu saja sih armada KRL yang kita naiki setiap hari? \nLets check it out!</string>
+    <string name="train_series">Train Type (EN)</string>
+    <string name="train_kei">Train Type (JP)</string>
+    <string name="train_description">Fleet Description</string>
+    <string name="train_images">Fleet Image</string>
+    <string name="train_image">Train Image</string>
+    <string name="my_name">Ridho Mardhatillah</string>
+    <string name="my_email">a181dsx1155@bangkit.academy</string>
+    <string name="imagedesc">My Image</string>
+    <string name="train_logo">Train Logo</string>
+
+    <string-array name="fleet_type">
+        <item>JR East 103 Series</item>
+        <item>JR East 203 Series</item>
+        <item>JR East 205 Series</item>
+        <item>JR East E217 Series</item>
+        <item>Toei 6000 Series</item>
+        <item>Tokyu 8000 Series</item>
+        <item>Tokyu 8500 Series</item>
+        <item>Tokyo Metro 5000 Series</item>
+        <item>Tokyo Metro 6000 Series</item>
+        <item>Tokyo Metro 7000 Series</item>
+        <item>Tokyo Metro 05 Series</item>
+        <item>Toyo Rapid 1000 Series</item>
+        /*<item>EA 202 Series</item>
+        <item>EA 203 Series</item>
+        <item>EA 101 Series</item>
+        <item>EA 102 Series</item>
+        <item>ED 101 Series</item>*/
+    </string-array>
+
+    <string-array name="fleet_type_jp">
+        <item>JR東日本103系</item>
+        <item>JR東日本203系</item>
+        <item>JR東日本205系</item>
+        <item>JR東日本E217系</item>
+        <item>都営6000形</item>
+        <item>東急8000系</item>
+        <item>東急8500系</item>
+        <item>東京メトロ5000系</item>
+        <item>東京メトロ6000系</item>
+        <item>東京メトロ7000系</item>
+        <item>東京メトロ05系</item>
+        <item>東葉高速1000形</item>
+        <item>KRL KfW i9000</item>
+        <item>KRL ARS Basoetta</item>
+        <item>KRL Ekonomi BN-Holec</item>
+        <item>KRL Ekonomi Hitachi</item>
+        <item>KRL Ekonomi Rheostatik</item>
+    </string-array>
+
+    <string-array name="fleet_description">
+        <item>JR East 103 Series was a former commuter train built in 1963. It was first operated by Japanese National Railway between 1963 and 1987, followed by East Japan Railway Company between 1987 and 2009. It was later operated by KAI Commuter in Jabodetabek Line between 2004 and 2015.
+            \n\nIt was manufactured by several company such as Hitachi, Kawasaki Heavy Industries, Nippon Sharyo, and Kisha Seizo in 1963 to replace the aging 72 Series that was built in early 1940s. This train was later operated in several urban JR lines such as Yamanote Line, Keihin-Tohoku Line, Joban Line, and Musashino Line before being replaced by the 205 Series in 1985. As of 1984, a total of 3447 cars were built, earned them as train with the highest number of production in Japan.
+            \n\nThis train used the DC Motor MT-55 Resistor Control System as its main propulsion and have a maximum operation speed of 100 km/h with the gear ratio of 85:14.</item>
+
+        <item>JR East 203 Series is a commuter train built in 1982. It was first operated by Japanese National Railway between 1982 and 1987, followed by East Japan Railway Company between 1987 and 2011. It was later operated by KAI Commuter in Jabodetabek Line since 2011.
+            \n\nIt was manufactured by Kawasaki Heavy Industries and Nippon Sharyo in 1982 to replace the aging 103 Series that has been running in Joban Line since 1963. This train was later operated on three lines: JR Joban Line, Tokyo Metro Subway Chiyoda Line, and Odakyu Odawara Line.
+            \n\nThis train use the CH-1A Thyristor Chopper Control as its main propulsion and have the maximum operation speed of 110 km/h with the gear ratio of 85:14.</item>
+
+        <item>JR East 205 Series is a commuter train built in 1985. It was first opera7ted by Japanese National Railway between 1985 and 1987, followed by East Japan Railway Company since 1987. It was later operated by KAI Commuter in Jabodetabek since 2013 and Jogja–Solo Line since 2021.
+            \n\nIt was manufactured by joint of Kawasaki Heavy Industries and Nippon Sharyo in 1985 to replace the aging JR East 103 Series on several urban JR lines in Kanto Region such as Yamanote Line, Keihin-Tohoku Line, Saikyo Line, Yokohama Line, and Musashino Line. As of 1994, a total of 1461 cars were built, with 812 cars were sold to KAI Commuter in 2013, earned them as train with the second highest number of production in Japan after the 103 Series, and the hignest number of Japan-made train in Indonesia.
+            \n\nThis train use the Mitsubishi Electric DC Motor MT-61 Resistor Control System as its main propulsion system, although several sets was later upgraded with a Toyo Denki SC71 IGBT-VVVF Inverter for the main propulsion. This train have the maximum speed of 110 km/h with the gear ratio of 85:14.</item>
+
+        <item>JR East E217 Series is a commuter train built in 1994. It is operated by East Japan Railway Company since 1994, and planned for overseas import to Indonesia between 2023 and 2025.
+            \n\nIt was manufactured by joint of Tokyu Sharyo and Kawasaki Heavy Industries in 1994 to replace the aging JNR 113 Series in various JR suburban line such as Sobu Line and Yokosuka Line, and was later also operated in Uchibo Line and Narita Line Service to Narita Airport. As of 1999, a total of 745 cars were built, with 348 cars are sold to KAI Commuter in 2023.
+            \n\nThis train originally used the Mitsubishi Electric GTO-VVVF SC41B Inverter as its main propulsion system, but later changed by IGBT-VVVF SC88 Inverter. This train have the maximum speed of 120 km/h with the gear ratio of 97:16</item>
+
+        <item>Toei Subway 6000 Series was a former commuter train built in 1968 and was operated by Tokyo Metropolitan Subway in Mita Line between 1968 and 1999. It was later operated by KAI Commuter in Jabodetabek Line between 2000 and 2016.
+            \n\nIt was manufactured in 1968 by Kawasaki Heavy Industries and Nippon Sharyo as the opening fleet for Toei Mita Line which was opened in the same year. 72 cars were donated to PT Kereta Api (Persero) in 1999 as part of an Official Development Assistance (ODA) programme by JICA to upgrade commuter train services in the Jakarta area.
+            \n\nThis train used the Shibaura Electric PE-24-A Resistor Control System as its main propulsion and have the maximum operation speed of 120 km\h with the gear ratio of 87:14</item>
+
+        <item>Tokyu 8000 Series is a commuter train built in 1969 and was operated by Tokyo Express Railway Company in Toyoko Line between 1969 and 2007. It was later operated by KAI Commuter in Jabodetabek Line since 2005.
+            \n\nIt was specially manufactured by Tokyu Car Manufacturer (later known as J-Trec) in 1969 to run in Toyoko Line and the newly opened Oimachi Subway Line. As of 1989, total of 677 cars were built, and 64 cars were sold to PT Kereta Api Indonesia in 2005.
+            \n\nThis train used the Hitachi TKM69/80 Field Chopper Control System as its main propulsion and have the maximum operation speed of 120 km/h with the gear ratio of 85:16.</item>
+
+        <item>Tokyu 8500 Series is a commuter train built in 1976 and was operated by Tokyo Express Railway Company in Denentoshi Line between 1976 and 2022. It was later operated by KAI Commuter in Jabodetabek Line since 2008.
+            \n\nIt was specially manufactured by Tokyu Car Manufacturer (later known as J-Trec) in 1976 as the second development from the Tokyu 8000 Series. This train was mainly running in Tokyu Denentoshi Line with a through service to Tokyo Metro Hanzomon Line and Tobu Isesaki Line. As of 1991, total of 400 cars were built, and 64 cars were sold to KAI Commuter in 2008.
+            \n\nSimilar to the Tokyu 8000 Series, this train use the same but upgraded Hitachi TKM69/80 Field Chopper Control System as its main propulsion and have the maximum operation speed of 120 km/h with an increased gear ratio from originally 85:16 to 85:14.</item>
+
+        <item>Tokyo Metro 5000 Series was a former commuter train built in 1964 and was operated by Tokyo Metro Subway in Tozai Line between 1964 and 2006. It was later operated by KAI Commuter in Jabodetabek Line between 2006 and 2020.
+            \n\nIt was manufactured by several companies such as Kawasaki Heavy Industries, Kinki Sharyo, Nippon Sharyo, and Tokyu Sharyo in 1964 to run in a newly opened Tokyo Metro Tozai Line. As of 1981, total of 428 cars were built, with 100 cars were later sold to Toyo Rapid Transit Authority in 1994 and modified into the Toyo Rapid 1000 Series, and 30 cars were sold to PT Kereta Api Indonesia in 2007.
+            \n\nThis train used DC Motor Resistor Control from several manufacturer for their propulsion system, namely the Mitsubishi MB-3088A, Hitachi HS-835Arb, Toshiba SE-549, and Toyo Denki TDK-881-A. They have the maximum operation speed of 100 km/h with the gear ratio of 99:16.</item>
+
+        <item>Tokyo Metro 6000 Series is a commuter train built in 1971 and was operated by Tokyo Metro Subway in Chiyoda Line between 1971 and 2018. It was later operated by KAI Commuter in Jabodetabek Line since 2012.
+            \n\nIt was manufactured by several companies such as Hitachi, Ltd., Kawasaki Heavy Industries, and Nippon Sharyo in 1971. This train was mainly running in Tokyo Metro Subway Chiyoda Line, JR Joban Line, and Odakyu Odawara Line, the same line of which JR East 203 Series were running in. A total of 350 cars were built, with 270 cars were sold to KAI Commuter in 2012. This train would be the base of the development of Tokyo Metro 7000 Series which had so many similar features.
+            \n\nThis train originally used both Hitachi and Mitsubishi Armature Variable Field (AFV) Chopper Control System as its main propulsion system, but several cars were later modified to various updated propulsion system such as Mitsubishi THB-2L23 GTO-Chopper and Hitachi VFI-HR4820C IGBT-VVVF System. They have the maximum operation speed of 100 km/h with the gear ratio of 98:15.</item>
+
+        <item>Tokyo Metro 7000 Series is a commuter train built in 1974 and was operated by Tokyo Metro Subway in Chiyoda Line between 1974 and 2021. It was later operated by KAI Commuter in Jabodetabek Line since 2010.
+            \n\nIt was manufactured by several companies such as Kawasaki Heavy Industries, Nippon Sharyo, and Tokyu Sharyo in 1974 and was built based on its predecessor, the Tokyo Metro 6000 Series. This train was mainly running in Tokyo Metro Subway Yurakucho and Fukutoshin Line with a through service to Tobu Tojo Line and Tokyu Toyoko Line in Yokohama. A total of 340 cars were built, with 40 cars were sold to KAI Commuter in 2010.
+            \n\nSimilar to the Tokyo Metro 6000 Series, this train originally used both Hitachi and Mitsubishi Armature Variable Field (AFV) Chopper Control System as their main propulsion system, but several cars were later modified to various updated propulsion system such as Mitsubishi MAP-174-15V122 and Hitachi VFI-HR1420K IGBT-VVVF System. They have the maximum operation speed of 110 km/h with the gear ratio of 98:15.</item>
+
+        <item>Tokyo Metro 05 Series is a commuter train built in 1988 and operated by Tokyo Metro Subway in Tozai Line since 1988. It was later operated by KAI Commuter in Jabodetabek Line since 2010.
+            \n\nIt was manufactured by Kawasaki Heavy Industries and Nippon Sharyo in 1988, and later the 05N variant by Tokyu Sharyo and Hitachi, Ltd. in 1999. This train is mainly running in Tokyo Metro Subway Tozai Line with a through service to Chuo-Sobu Line in Nakano. As of 2004, 420 cars were built, with 90 cars were sold to KAI Commuter in 2010.
+            \n\nThis train used the Hitachi Gate Turn-Off (GTO) Chopper as its main propulsion, but several cars were later modified to various updated propulsion system such as Mitsubishi MAP-198-15V29 and Hitachi VFI-HR2820E IGBT-VVVF System. They have the maximum operation speed of 110 km/h with the gear ratio of 86:15 for the original 05 variant and 109:14 for the 05N variant.</item>
+
+        <item>Toyo Rapid 1000 Series was a former commuter train built in 1994 and was operated by Toyo Rapid Railway Line between 1994 and 2008. It was later operated by KAI Commuter in Jabodetabek Line between 2007 and 2019.
+            \n\nIt was the modified version of Tokyo Metro 5000 Series bought by the Toyo Rapid Transit Authority in 1994. This train was operated as Rapid/Express Service in Toyo Rapid Railway Line as an extension of the Tokyo Metro Tozai Line
+            \n\nThis train used the very same propulsion system as the Tokyo Metro 5000 Series but with an increased acceleration capacity from originally 3.3 km/h/s to 3/5 km/h/s, making it as the most suitable fleet for Express Service in Tozai Line before the introduction of modified Tokyo Metro 05 Series in 2004.</item>
+
+        <item>EA202 Series (formerly known as KRL KfW I9000) is a commuter train built by PT INKA in a collaboration with Bombardier Inc. in 2011. It is now operated by KAI Commuter in Jabodetabek Line since 2011 and Jogja–Solo Line since 2021.
+            \n\nIt was the first electric commuter train built by collaboration of PT INKA and Bombardier Transportation in 2011. This train was operated in Jabodetabek Line between 2012 and 2019, before later undergone several minor modification by PT INKA for preparing its service on Jogja-Solo Line, replacing the former diesel-powered Prambanan Ekspres service. This train is now the only fleet operating in Jogja-Solo Commuter Line. As of 2013, a total 40 cars were built.
+            \n\nThis train use the Bombardier MITRAC IEC 349-2 IGBT-VVVF as its main propulsion and have the maximum operational speed of 100 km/h.</item>
+
+        <item>EA203 Series (formerly known as KRL ARS Soetta) is an airport rail link train built by PT INKA in a collaboration with Bombardier Inc. in 2017. It was operated by KAI Bandara in Soekarno-Hatta Airport Line until 2022 and later operated by KAI Commuter in Jabodetabek Line since 2023
+            \n\nIt was the first electric intercity train built by collaboration of PT INKA and Bombardier Transportation in 2017. This train was operated by PT Railink (currently known as KAI Bandara) in Soekarno Hatta Airport Line between Soekarno-Hatta International Airport and Manggarai Station, but now operated by KAI Commuter after the acquisition of Soekarno-Hatta Airport Line by KAI Commuter on March 2023.
+            \n\nThis train was used as the base model for future diesel train built by PT INKA, such as the ME204 Series for Minangkabau Express and Railway Shuttle Service for Yogyakarta and Adi Soemarmo International Airport, and exported PNR 8000-8100 Series for Philippine National Railway.
+            \n\nThis train use the same main propulsion as the EA202 Series, namely Bombardier MITRAC IEC 349-2 IGBT-VVVF, and have the maximum operational speed of 120 km/h.</item>
+
+        <item>EA101 Series (formerly known as KRL BN-Holec) was a former non air-conditioned commuter train manufactured by PT INKA in a collaboration with BN-Bombardier and Holec Ridderkerk (later known as Brush HMA) in 1990. It was operated by PT Kereta Api Indonesia in Jabodetabek Line from 1990 up until the discontinuity of non air-conditioned commuter train in 2013.
+            \n\nIt was the first electric commuter train built locally by PT INKA in Madiun and are notoriously known for its poor reliability and overweight issue. As of 2001, 128 cars were built, but only 24 cars were on fairly good operational by the end of 2012. In 2007, 50 of them were then modified by PT INKA into diesel commuter train for Prambanan Ekspres service in Jogja-Solo Line before the introduction of electric commuter train in 2021.
+            \n\nThis train used the Holec DMKT 52/24 GTO-VVVF as its main propulsion with a maximum designed speed of 120 km/h, even though it rarely exceeded the speed of 60 km/h in its operation due to its poor electrical reliability.</item>
+
+        <item>EA102 Series (formerly known as KRL Hitachi) was a former non air-conditioned commuter train manufactured by PT INKA in a collaboration with Hitachi, Ltd. in 1997. It was operated by PT Kereta Api Indonesia in Jabodetabek Line from 1997 up until the discontinuity of non air-conditioned commuter train in 2013
+            \n\nIt was the second electric commuter train built locally by PT INKA in Madiun and Hitachi, Ltd. This train has a huge reliability improvement from the previous EA101 Series. As of 1998, a total of 24 cars were built, and all were in fairly good condition until the very end of their operations in 2013. 16 cars were originally planned to undergo a refurbishment in 2014 to install the air conditioning system and interior modification. Unfortunately, by the end of 2018, all remaining cars has been scrapped in Purwakarta.
+            \n\nThis train used the Hitachi HS32533-14RB GTO-VVVF as its main propulsion with a maximum designed speed of 120 km/h, although it never exceeded the operational speed of 70 km/h due to poor track condition</item>
+
+        <item>ED101 Series (formerly known as KRL Rheostatik) was a former non air-conditioned commuter train manufactured by Nippon Sharyo, Ltd. in 1976. It was operated by PT Kereta Api Indonesia in Jabodetabek Line from 1976 up until the discontinuity of non air-conditioned commuter train in 2013
+            \n\nIt was the first electric commuter train imported after Indonesian independence, while the predecessor train was imported by the Dutch Government back in 1926. This train was manufactured in 1976 by Nippon Sharyo and operated by Perusahaan Jawatan Kereta Api (PJKA) to replace the old electric train that has been operating as Jabodetabek commuter train service for almost 50 years. From 1976 to 1990, this train was the only commuter train running in Jabodetabek Line before the introduction of the EA101 (BN-Holec) Series.
+            \n\nThis train is notoriously known for its reliability. Since it first entered service in 1976, it rarely encountered any major issue. As of 1987, a total of 120 cars were built, and almost all cars were in a good condition until its withdrawal in 2013.
+            \n\nThis train used the very reliable Hitachi DC Motor HS-836-URB Resistor Control System as its main propulsion system with the maximum designed speed of 100 km/h. </item>
+
+    </string-array>
+
+    <integer-array name="fleet_image">
+        <item>@drawable/jr103</item>
+        <item>@drawable/jr203</item>
+        <item>@drawable/jr205</item>
+        <item>@drawable/jre217</item>
+        <item>@drawable/t6000h</item>
+        <item>@drawable/tkk8000</item>
+        <item>@drawable/tkk8500</item>
+        <item>@drawable/tm5000</item>
+        <item>@drawable/tm6000</item>
+        <item>@drawable/tm7000</item>
+        <item>@drawable/tm05</item>
+        <item>@drawable/tr1000</item>
+        <item>@drawable/ea202</item>
+        <item>@drawable/ea203</item>
+        <item>@drawable/ea101</item>
+        <item>@drawable/ea102</item>
+        <item>@drawable/ed101</item>
+    </integer-array>
+
+    <integer-array name="fleet_logo">
+        <item>@drawable/logo_jre</item>
+        <item>@drawable/logo_jre</item>
+        <item>@drawable/logo_jre</item>
+        <item>@drawable/logo_jre</item>
+        <item>@drawable/logo_toei</item>
+        <item>@drawable/logo_tkk</item>
+        <item>@drawable/logo_tkk</item>
+        <item>@drawable/logo_tm</item>
+        <item>@drawable/logo_tm</item>
+        <item>@drawable/logo_tm</item>
+        <item>@drawable/logo_tm</item>
+        <item>@drawable/logo_tr</item>
+        <item>@drawable/logo_kcj</item>
+        <item>@drawable/logo_railink</item>
+        <item>@drawable/logo_ptka</item>
+        <item>@drawable/logo_ptka</item>
+        <item>@drawable/logo_ptka</item>
+    </integer-array>
+
+</resources>
